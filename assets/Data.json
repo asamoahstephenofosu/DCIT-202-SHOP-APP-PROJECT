@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://images-na.ssl-images-amazon.com/images/I/61Ze2wc9nyS.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+  "brand": "Alien Machine",
+  "price": 700,
+  "rating": 5,
+  "numReviews": 5,
+  "isFeatured": true,
+  "name": "MSI GL66 gaming machine ",
+  "description": "Intel Core i7-11800H, NVIDIA GeForce RTX 3070, 16GB, 512GB SSD, Win10, Black (11UGK-001",
+  "category": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d92ee520d44421ed8e9b"
+  },
+  "image": "https://m.media-amazon.com/images/I/81kFR77tdJL._AC_SY450_.jpg",
+  "brand": "Razer Basilik",
+  "price": 91,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Razer BAsilik Wired GAming ",
+  "description": "20K DPI Optical Sensor, Fastest Gaming Mouse Switch, Chroma RGB Lighting, 11 Programmable Buttons, Classic Black",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d964e520d44421ed8e9c"
+  },
+  "image": "https://m.media-amazon.com/images/I/71kr3WAj1FL._AC_SL1500_.jpg",
+  "brand": "REdragon ",
+  "price": 37,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Redragon S101 Wired Gaming Keyboard and Mouse Combo",
+  "description": "RGB Backlit Gaming Keyboard with Multimedia Keys Wrist Rest and Red Backlit Gaming Mouse 3200 DPI ",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "https://m.media-amazon.com/images/I/71LbB2+EOZL._AC_SL1500_.jpg",
+  "brand": "Apple IPhone",
+  "price": 15,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Apple Iphone 12pro",
+  "description": "128GB, Gold - Fully Unlocked (Renewed)",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://m.media-amazon.com/images/I/91BdX7N8y+L._SL1500_.jpg",
+  "brand": "infantino",
+  "price": 29,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Infantino Flip Advanced 4-in-1 Carrier ",
+  "description": "ace-in and face-out front and back carry for newborns and older babies 8-32 lbs",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+  
+
+},
+{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://m.media-amazon.com/images/I/81jofg5REML._AC_SL1500_.jpg",
+  "brand": "DecoBros",
+  "price": 10,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "DecoBRoss Kitchen counter",
+  "description": "bronze",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 5,
+  "__v": 0
+  
+
+},
+{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://m.media-amazon.com/images/I/61Wi68zBV5L._AC_SL1000_.jpg",
+  "brand": "Wolfyok DumBelss",
+  "price": 18,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Wolfyok Dumbbelss set",
+  "description": "Home Gym Equipment for Men Women Gym Workout Fitness Exercise with Connecting Rod",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+  
+
+},
+{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://m.media-amazon.com/images/I/71AExT0s1gL._AC_SL1500_.jpg",
+  "brand": "dustbuter",
+  "price": 20,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Decker Dusbster",
+  "description": "Cordless, 16V (CHV1410L)",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 5,
+  "__v": 0
+  
+
+},
+{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://m.media-amazon.com/images/I/71rXSVqET9L._AC_SL1257_.jpg",
+  "brand": "UK",
+  "price": 83,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "scepter E248W",
+  "description": "Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 5,
+  "__v": 0
+  
+
+}
+,
+{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://m.media-amazon.com/images/I/81Wx7hw9vwL._AC_SL1500_.jpg",
+  "brand": "USA used",
+  "price": 11,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Gamer Xtreme VR Gaming PC,",
+  "description": "Intel i5-10400F 2.9GHz, GeForce GTX 1660 Super 6GB, 8GB DDR4, 500GB NVMe SSD, Wi-Fi Ready & Windows 10 Home (GXiVR8060A10",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+  
+
+}]
