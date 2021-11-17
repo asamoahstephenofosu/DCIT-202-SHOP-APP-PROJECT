@@ -1,20 +1,46 @@
-import React, {Component} from 'react';
-import { StyleSheet, View, Text } from 'react-native';
-import Header from './screens/Header';
+import React from 'react'
+import { StyleSheet, Text, View,TouchableOpacity, ActivityIndicator, ScrollView, FlatList,   LogBox} from 'react-native'
+import { useState } from 'react'
+import {} from "react-native-elements"
+import { NavigationContainer } from '@react-navigation/native'
+import {Provider} from "react-redux"
+import store from "./Redux/store";
 
-import Product from './screens/Products';
+
+
+
+import Products from  "./Pro/Products"
+
+import Product from './Pro/Products'
+import Navpage from './productNavigation/Navpage'
+LogBox.ignoreAllLogs(true);
+import Header from './screens/Header'
+
+
+
+
+
+
+
 export default function App() {
+    return (
+    <Provider store={store}>
+         <NavigationContainer>
+             <Header/>
+            <Navpage/>
+            
+</NavigationContainer>
 
-  return (
-    <View>
-
-    <Header/>
-    <Product/>
-
-
-
-    </View>
-    
-  );
+        
+    </Provider>
+           
+ 
+       
+    )
 }
+
+
+
+
+
 

@@ -12,12 +12,10 @@ const Header=()=>{
           
            </View>
            <View style={styles.content}>
-           <Text style={styles.headname}> DCIT202 SHOP</Text> 
-           
+           <Text style={styles.headname}>DCIT202 ACCESSORIEES SHOP</Text> 
+           <Text style={styles.headname}>ShopApp</Text> 
         
-        <View>
-            <Text>Shop here</Text></View>
-           </View>
+        </View>
            
         
      </TouchableOpacity>
@@ -32,7 +30,7 @@ headname:{
    fontWeight:"bold",
    color: "blue"
 ,
-
+fontStyle:"italic"
 },
 header:{
     
@@ -41,7 +39,7 @@ header:{
     flexWrap:"wrap",
     justifyContent:"center",
     marginTop:20,
-    backgroundColor:"black",
+    
 
 
 },
@@ -52,4 +50,4 @@ content:{
 }
 
 })
-export default Header;
+export default Header; 
